@@ -1,5 +1,5 @@
 # PALAMEDES — Completed Exercise Record
 
-This file contains **only completed exercise records**. The exercise lifecycle, outcome definitions, and record format are in `METHODOLOGY.md`.
+Only completed, reviewed exercises are recorded here. Each entry keeps `Outcome` and `Support` separate; see `METHODOLOGY.md` for definitions and format.
 
 No completed exercise records yet.
